@@ -11,7 +11,7 @@ const Home = () => (
       <h1 className="title">Fast Feedback</h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        A website to create single line commenting on any website.
       </p>
 
       <div className="grid">
